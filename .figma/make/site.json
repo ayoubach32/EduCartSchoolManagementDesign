@@ -1,0 +1,10 @@
+{
+  "description": "Manage school administration, student attendance, and digital cards while keeping Algerian schools, parents, and staff connected through mobile and scanning apps.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
